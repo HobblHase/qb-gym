@@ -5,7 +5,7 @@ GYM with skillsystem for QB-Core fw.
 
 I changed the Menu to qb-menu
 I also added a own table for the skills, so i dont use list/json in my players table 
-- (its defeats the purpose of it *~ man1c*)
+- (its defeats the purpose of it ~ man1c)
 
 ## ADD TO SHARED.LUA
 ```
