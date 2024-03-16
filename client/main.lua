@@ -195,7 +195,7 @@ CreateThread(function()
 			local vehicle = GetVehiclePedIsUsing(ped)
 
 		if IsPedRunning(ped) then
-			UpdateSkill("resistance", 0.2)
+			UpdateSkill("stamina", 0.2)
 		elseif IsPedInMeleeCombat(ped) then
 			UpdateSkill("strength", 0.5)
 		elseif IsPedSwimmingUnderWater(ped) then
